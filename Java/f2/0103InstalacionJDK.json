@@ -1,0 +1,6 @@
+0:find JDK in browse
+1:oracle.com/java - version 14,8 - redhat java - openJDK
+3: Configuracion de variables de entorno
+
+0:openJDK no trae parches de seguridad en produccion
+1:bin contiene todos los ejecutables, [version installer]

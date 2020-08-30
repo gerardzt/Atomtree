@@ -1,0 +1,5 @@
+{
+	automat : [
+		"insert into esquema.tabla"
+	]
+}

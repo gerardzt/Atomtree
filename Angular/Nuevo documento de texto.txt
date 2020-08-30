@@ -1,0 +1,2 @@
+google storage
+amazon s3

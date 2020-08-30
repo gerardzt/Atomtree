@@ -1,0 +1,8 @@
+ananconda - windows anaconda PRPMP
+pip - instalador de paquetes es como mvn o npm
+
+
+instalar un paquete 
+pip install nombre_del_paquete 
+pip install tensorflow
+

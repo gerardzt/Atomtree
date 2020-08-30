@@ -1,0 +1,48 @@
+{
+
+	"date": "27-1-2020",
+	"mather": "git",
+	"method": "03estructuraciondt",
+	"font": "f3mitocode",
+	"title": "011repohub",
+	"ASlearn":"10",
+
+	"questions":[
+		"4: The first CREATE or EXISTING folder?",
+		"6: github need commit's in NEW REPO?",
+		"7: Wath is the command of relation repositories?",
+		"8: Wath is the command of UPLOAD",
+		"9: if the proyect existing in local create a new repositorie?",
+		"13: the proyect existing in local ned relation in repo?"		
+	],
+	"resuts":[
+		"4:create",
+		"6:no but init",
+		"7:git remote add origin + url",
+		"8:git push -u origin master",
+		"9:yes",
+		"13:yes"	
+	],
+	"automat": [
+		"1: start in coun git",
+		"2: create new repositorie",
+		"3: create folder of repo",
+		"4: git init in new folder",
+		"5: add file example.x",
+		"6: git add . git commit -m",
+		"7: git remote add origin + url",
+		"8: git push -u origin master",
+		"9: login in github",
+		"10: create new poryect in github",
+		"11: selected the second option proyect existing in local",
+		"12: git status in folder existing",
+		"13: git remote add origin + utl",
+		"14: git push -u origin master",
+		"15: modify a file",
+		"16 git add + git commit"
+	],
+	"automatime": "00:56:43",
+	"AClearn":"10",
+
+	"critic":[]
+}

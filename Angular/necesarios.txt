@@ -1,0 +1,6 @@
+node 
+npm
+npm install -g typescript
+angular cli
+npm install -g @angular/cli
+

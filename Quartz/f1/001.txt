@@ -1,0 +1,10 @@
+Quartz
+Job scheduling library 
+Component 
+	1 Job - a task
+	2 Trigger 
+		1 Simple trigger 
+		2 cron trigger 
+	3 Scheduler
+		
+
