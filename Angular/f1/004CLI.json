@@ -1,0 +1,3 @@
+ng version
+ng serve --port [4600]
+ng build --prod

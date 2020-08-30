@@ -1,0 +1,8 @@
+mostrar y hacer condicionales 
+asterisco antes de la sentencia en un 
+elemeto del html
+
+<div *ngIf="">
+  este es un div
+</div>
+

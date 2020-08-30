@@ -4,3 +4,5 @@ npm install -g typescript
 angular cli
 npm install -g @angular/cli
 
+angular language service/Code
+angular/TSLint/Code
