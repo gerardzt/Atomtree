@@ -1,0 +1,70 @@
+http://www.profesor-p.com/2018/10/30/spring-webflow-con-jsp/
+
+
+
+spring web flow
+youtube
+
+especificacion de navegacion de una aplicacion eb
+
+extra scopes secion y especificaciones
+
+procesing f5 application scope
+
+cant be stored multiples pages, single view, 
+request, fash scope.
+
+1.- View
+2.- Request
+3.- 
+4.-
+5.-
+
+
+client -> Web container
+
+
+submit -> HTTP POST (from data) -> execute application logic and store DATA
+HTTP 302 (REDIRECT) -> Browser follows reditrect -> Render View -> HTTP (200) OK + DATA ->
+BROWSER DATA
+
+
+
+
+
+F5 http 200 ok llama al fontexto habilitado no 
+hace la eticion de nievo.
+
+xml se escribe el webflow
+controller configurationm 
+
+Spring MVC Dispatcher Servlet
+=============================
+
+
+
+HOME {
+	Start (1) -> Personal (2) -> Building addres (3) -> Confirm (4)
+}
+
+las transiciones se llama definen el camino del flujo a 
+utilizar en web flow
+
+despues sigue el WEBFLOW CONFIGURATION 
+
+
+flow executor en el dispatcher 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

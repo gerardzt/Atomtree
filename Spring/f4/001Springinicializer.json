@@ -1,0 +1,27 @@
+https://start.spring.io
+java version 8 11 [Sleec 11 open jdk]
+include dependencys, JPA, JDBC8 Oracle, MVC.
+
+SAPRINGOBOOT
+aplicaciones autocontenidas
+
+INICIALIZR
+  id 'org.springframework.boot' version '2.3.4.RELEASE'
+  id 'io.spring.dependency-management' version '1.0.10.RELEASE'
+  id 'java'
+}
+group = 'com.neuzl'
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = '11'
+repositories {
+  mavenCentral()
+}
+dependencies {
+  implementation 'org.springframework.boot:spring-boot-starter-web'
+  testImplementation('org.springframework.boot:spring-boot-starter-test') {
+    exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'
+  }
+}
+test {
+  useJUnitPlatform()
+} 
