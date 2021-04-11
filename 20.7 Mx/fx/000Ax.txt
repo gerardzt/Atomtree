@@ -3,7 +3,7 @@
 	"date": "27-1-2020",
 	"mather": "git",
 	"method": "03estructuraciondt",
-	"font": "f3mitocode",
+	"font": "f3",
 	"title": "011repohub",
 	"ASlearn":"10",
 
